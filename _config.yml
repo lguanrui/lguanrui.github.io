@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Guanrui Li"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Guanrui Li"
 description              : &description "personal description"
 url                      : https://lguanrui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,9 +82,8 @@ analytics:
 author:
   name             : "Guanrui Li"
   avatar           : "guanrui_profile.png"
-  bio              : "PhD candidate"
-  location         : "NY"
-  location         : "New York University"
+  bio              : "PhD candidate in ECE"
+  location         : "New York University, NY"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=v_bUoRAAAAAJ"
