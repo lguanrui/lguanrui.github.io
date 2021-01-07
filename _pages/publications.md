@@ -1,5 +1,5 @@
 ---
-title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations)"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.com/citations?hl=en&authuser=1&user=v_bUoRAAAAAJ")
 permalink: /publications/
 author_profile: true
 ---
@@ -15,7 +15,6 @@ author_profile: true
 <b>[PCMPC:  Perception-Constrained  Model  Predictive  Control  for Quadrotors  with  Suspended  Loads  using  a  Single  Camera  and  IMU](http://lguanrui.github.io/publications/paper_list)</b> <br> 
 <b>Guanrui Li</b>\*, Alex Tunchez\*, and Giuseppe Loianno.
 <i>proceedings of the 2021 IEEE International Conference on Robotics and Automation</i>, <b>ICRA 2021</b>(Submitted)(\*: equal contribution)
-
 <br>
 <b>[Design and Experimental Evaluation of Distributed Cooperative Transportation of Cable Suspended Payloads with Micro Aerial Vehicles](http://lguanrui.github.io/publications/paper_list)</b> <br> 
 <b>Guanrui Li</b>, and Giuseppe Loianno.
