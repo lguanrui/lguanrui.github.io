@@ -1,7 +1,7 @@
 ---
 title: "Cooperative Transportation of Cable Suspended Payloads with MAVs using Monocular Vision and Inertial Sensing"
 collection: publications
-permalink: /publication/CoprTrsp2021RAL
+permalink: /publications/CoprTrsp2021RAL
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-10-01
 venue: ''
