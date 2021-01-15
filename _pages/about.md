@@ -19,3 +19,28 @@ After graduating from UPenn, I stayed working as a full time research assistant 
 
 In my spare time, I enjoy playing tennis and having good food (as you might be able to tell from the photo...).  
 
+<table style="width:100%;max-width:800px;border:0px;margin-right:auto;margin-left:auto;">
+<table table="" width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
+ </tbody><tbody>
+   <tr><td width="20%">
+   <a href="https://info.flagcounter.com/h5Cf"><img src="https://s11.flagcounter.com/count2/h5Cf/bg_FFFFFF/txt_000000/border_1237CC/columns_1/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+   <!--img src="images/coprtrsp2021ral.jpg" width="200"-->
+   </td>
+    
+   <td style="padding:20px;width:75%;vertical-align:middle">
+   <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=AAewvLxwZerOf7MJjxWQmLqbpCjz3Fq85VqETfASmPg&cl=ffffff&w=a"></script>
+
+   <!--papertitle>Cooperative Transportation of Cable Suspended Payloads with MAVs using Monocular Vision and Inertial Sensing</papertitle>
+      <br>
+      <a href="https://www.guan-rui.com">Guanrui Li</a>, 
+      <strong>Rundong Ge</strong>, 
+      <a href="https://engineering.nyu.edu/faculty/giuseppe-loianno">Giuseppe Loianno</a>
+      <br>
+      <em>IEEE Robotics and Automation Letters (<strong>RA-L</strong>) and <strong>ICRA 2021</strong></em>(Submitted)<br-->
+   </td>
+  </tr>
+
+ </tbody>
+</table>
+
+
