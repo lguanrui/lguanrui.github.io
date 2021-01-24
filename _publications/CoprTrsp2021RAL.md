@@ -8,6 +8,7 @@ paperurl: ''
 citation: 'Guanrui Li, Rundong Ge, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>.'
 ---
 Submitted to IEEE Robotics and Automation Letters
+
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 [[PDF]]()
