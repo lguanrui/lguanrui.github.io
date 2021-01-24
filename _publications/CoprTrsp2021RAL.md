@@ -3,9 +3,9 @@ title: "Cooperative Transportation of Cable Suspended Payloads with MAVs using M
 <!--collection: publications-->
 permalink: /publications/CoprTrsp2021RAL
 date: 2021-01-01
-venue: ''
+<!--venue: ''
 paperurl: ''
-citation: 'Guanrui Li, Rundong Ge, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>.'
+citation: 'Guanrui Li, Rundong Ge, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>.'-->
 ---
 Submitted to IEEE Robotics and Automation Letters
 
