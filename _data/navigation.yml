@@ -6,8 +6,8 @@ main:
 #  - title: "Talks"
 #    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
     
 #  - title: "Portfolio"
 #    url: /portfolio/
@@ -16,5 +16,5 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /files/cv_guanrui.pdf
     
