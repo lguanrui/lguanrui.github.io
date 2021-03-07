@@ -1,11 +1,9 @@
 ---
 title: "Cooperative Transportation of Cable Suspended Payloads with MAVs using Monocular Vision and Inertial Sensing"
 <!--collection: publications-->
-permalink: /publications/CoprTrsp2021RAL
-date: 2021-01-01
-venue: 'Submitted to IEEE Robotics and Automation Letters'
+permalink: /publications/CoprTrsp2021ISER
 paperurl: ''
-citation: 'Guanrui Li, Rundong Ge, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>.'
+citation: 'Guanrui Li, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>.'
 ---
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
