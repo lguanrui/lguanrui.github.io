@@ -9,9 +9,9 @@ citation: 'Guanrui Li, Rundong Ge, and Giuseppe Loianno. <i>IEEE Robotics and Au
 ---
 Submitted to IEEE Robotics and Automation Letters
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+<!--[Download paper here](http://academicpages.github.io/files/paper1.pdf)-->
 
-[[PDF]]()
+<!--[[PDF]]()-->
 
 ![2021ral](https://lguanrui.github.io/images/coprtrsp2021ral.jpg)
 
