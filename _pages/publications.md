@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## Journal Papers:
 1. <b>[Cooperative Transportation of Cable Suspended Payloads with MAVs using Monocular Vision and Inertial Sensing](http://lguanrui.github.io/publications/paper_list)</b>, <b>Guanrui Li</b>, Rundong Ge, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>, <b>RAL with ICRA 2021 option</b>(Accepted)
- 
+1. <b>[Cooperative Transportation of Cable Suspended Payloads with MAVs using Monocular Vision and Inertial Sensing](http://lguanrui.github.io/publications/paper_list)</b>, <b>Guanrui Li</b>, Rundong Ge, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>, <b>RAL with ICRA 2021 option</b>(Accepted)
 ## Conference Papers:
 
 1. <b>[PCMPC:  Perception-Constrained  Model  Predictive  Control  for Quadrotors  with  Suspended  Loads  using  a  Single  Camera  and  IMU](http://lguanrui.github.io/publications/PCMPC2021ICRA)</b>, <b>Guanrui Li</b>\*, Alex Tunchez\*, and Giuseppe Loianno. <i>proceedings of the 2021 IEEE International Conference on Robotics and Automation</i>, <b>ICRA 2021</b>(Accepted)(\*: equal contribution)
