@@ -4,6 +4,8 @@ title: "Cooperative Transportation of Cable Suspended Payloads with MAVs using M
 permalink: /publications/CoprTrsp2021RAL
 ---
 
+<b>Authors: </b> Guanrui Li, Rundong Ge, Giuseppe Loianno
+
 ![2021ral](https://lguanrui.github.io/images/coprtrsp2021ral.jpg)
 
 ## Abstract
