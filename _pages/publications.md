@@ -4,6 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 ## Journal Papers:
+<ol>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+<li>Fourth item</li>
+</ol>
+1. <b>[Cooperative Transportation of Cable Suspended Payloads with MAVs using Monocular Vision and Inertial Sensing](http://lguanrui.github.io/publications/paper_list)</b>, <b>Guanrui Li</b>, Rundong Ge, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>, <b>RAL with ICRA 2021 option</b>(Accepted)
 1. <b>[Cooperative Transportation of Cable Suspended Payloads with MAVs using Monocular Vision and Inertial Sensing](http://lguanrui.github.io/publications/paper_list)</b>, <b>Guanrui Li</b>, Rundong Ge, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>, <b>RAL with ICRA 2021 option</b>(Accepted)
  
 ## Conference Papers:
