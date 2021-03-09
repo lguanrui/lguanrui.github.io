@@ -4,7 +4,7 @@ title: "PCMPC: Perception-Constrained Model Predictive Control for Quadrotors wi
 permalink: /publications/PCMPC2021ICRA
 ---
 
-<b>Authors: </b> Guanrui Li*, Alex Tunchez*, Giuseppe Loianno
+<b>Authors: </b> Guanrui Li\*, Alex Tunchez\*, Giuseppe Loianno
 
 ![2021icra](https://lguanrui.github.io/images/pcmpc2021icra.jpg)
 
