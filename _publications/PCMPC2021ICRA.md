@@ -6,6 +6,45 @@ permalink: /publications/PCMPC2021ICRA
 
 <b>Authors: </b> Guanrui Li\*, Alex Tunchez\*, Giuseppe Loianno
 
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50.0%;
+  padding: 5px;
+}
+
+.example-cover img {
+  object-fit: cover;
+}
+
+.row::after {
+  content: "";
+  height: 500px
+  clear: both;
+  display: table;
+}
+  
+</style>
+</head>
+
+<body>
+  
+<div class="row">
+  <div class="column">
+    <img src="https://lguanrui.github.io/images/pcmpc2021icra.jpg" alt="ral2021" style="width:100%">
+  </div>
+  <div class="column">
+    <iframe width="100%" src="https://www.youtube.com/embed/BBWt1xG7Rrw">
+    </iframe>
+  </div>
+</div>
+  
+</body>
 ![2021icra](https://lguanrui.github.io/images/pcmpc2021icra.jpg)
 
 ## Abstract
