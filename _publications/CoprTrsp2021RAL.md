@@ -6,6 +6,44 @@ permalink: /publications/CoprTrsp2021RAL
 
 <b>Authors: </b> Guanrui Li, Rundong Ge, Giuseppe Loianno
 
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50.0%;
+  padding: 5px;
+}
+
+.example-cover img {
+  object-fit: cover;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+  
+</style>
+</head>
+
+<body>
+  
+<div class="row">
+  <div class="column">
+    <img src="https://lguanrui.github.io/images/coprtrsp2021ral.jpg" alt="ral2021" style="width:100%">
+  </div>
+  <div class="column">
+    <iframe width="420" height="345" src="https://www.youtube.com/watch?v=BBWt1xG7Rrw">
+    </iframe>
+  </div>
+</div>
+  
+</body>
 ![2021ral](https://lguanrui.github.io/images/coprtrsp2021ral.jpg)
 
 ## Abstract
