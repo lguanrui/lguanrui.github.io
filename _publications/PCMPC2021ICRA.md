@@ -38,7 +38,7 @@ permalink: /publications/PCMPC2021ICRA
     <img src="https://lguanrui.github.io/images/pcmpc2021icra.jpg" alt="ral2021" style="width:100%">
   </div>
   <div class="column">
-    <iframe width="500px" height: "300px" src="https://www.youtube.com/embed/BBWt1xG7Rrw">
+    <iframe width="500px" height="300px" src="https://www.youtube.com/embed/BBWt1xG7Rrw">
     </iframe>
   </div>
 </div>
