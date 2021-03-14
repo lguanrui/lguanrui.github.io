@@ -83,9 +83,9 @@ author:
   name             : "Guanrui Li"
   avatar           : "guanrui_profile.png"
   bio              : "PhD candidate in ECE"
-  location         : "New York University, NY"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  location         : "Brooklyn, New York"
+  employer         : "ARPL, ECE, NYU"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=v_bUoRAAAAAJ"
   email            : "lguanrui@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0554-304X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
