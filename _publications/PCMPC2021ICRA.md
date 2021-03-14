@@ -19,7 +19,7 @@ permalink: /publications/PCMPC2021ICRA
 }
 
 .example-cover img {
-  height: 400px;
+  height: 300px;
   object-fit: cover;
 }
 
