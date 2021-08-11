@@ -16,6 +16,8 @@ I got a master degree of Robotics at the University of Pennsylvania. During my t
 
 Before coming to the US, I got my bachelor degree at the Sun Yat-Sen University (SYSU) in China majoring Theoretical and Applied Mechanics.
 
+You can check my publication and some interesting photos in my life on this website. 
+
 <table style="width:100%;max-width:800px;border:0px;margin-right:auto;margin-left:auto;">
 <table table="" width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
  </tbody><tbody>
