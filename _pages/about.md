@@ -12,7 +12,7 @@ My name is Guanrui Li（Chinese Characters: 李冠睿), pronounced as "Guan(冠)
 
 Currently I am a third-year PhD student of the ECE department at Tandon school of Engineering, New York University, supervised by [Prof. Giuseppe Loianno](https://engineering.nyu.edu/faculty/giuseppe-loianno), Principle Investigator of [Agile Robotics and Perception Lab(ARPL)](https://wp.nyu.edu/arpl/). 
 
-I got a master degree of Robotics at the University of Pennsylvania. During my time at UPenn, I participated in research projects supervised by Prof. Vijay Kumar and Prof. Mark Yim at the GRASP Lab. After master graduation, I stayed working as a full time research assistant in the ModLab, supervised by Prof. Mark Yim for half an year. Then I moved to Pittsburgh working as a full time research staff for half a year in the AirLab at the Robotics Institute, Carnegie Mellon University, supervised by Prof. Sebastian Scherer.   
+I got a master degree of Robotics at the University of Pennsylvania. During my time at UPenn, I participated in research projects supervised by Prof. Vijay Kumar and Prof. Mark Yim at the GRASP Lab. After master graduation, I stayed working as a full time research assistant in the ModLab, supervised by Prof. Mark Yim for half year. Then I moved to Pittsburgh working as a full time research staff for another half year in the AirLab at the Robotics Institute, Carnegie Mellon University, supervised by Prof. Sebastian Scherer.   
 
 Before coming to the US, I got my bachelor degree at the Sun Yat-Sen University (SYSU) in China majoring Theoretical and Applied Mechanics.
 
