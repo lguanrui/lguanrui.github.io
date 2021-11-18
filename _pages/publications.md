@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## Journal Papers:
 1. <b>RotorTM:  An  Open-Source  Aerial  Transportation  and  Manipulation Simulator  for  Research  and  Education</b>, <b>Guanrui Li</b>, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>, <b>RAL with ICRA 2022 option</b> (under review)
-2. "Vision-based Detection and Tracking for Relative Localization of Aerial Swarms”, Rundong Ge*, Moonyoung Lee*, Yang Zhou, <b>Guanrui Li</b>, Giuseppe Loianno,  IEEE Robotics and Automation Letters (RA-L), 2022 (under review)
+2. <b>Vision-based Detection and Tracking for Relative Localization of Aerial Swarms</b>, Rundong Ge*, Moonyoung Lee*, Yang Zhou, <b>Guanrui Li</b>, Giuseppe Loianno,   <i>IEEE Robotics and Automation Letters</i> (RA-L), 2022 (under review)
 3. <b>[Cooperative Transportation of Cable Suspended Payloads with MAVs using Monocular Vision and Inertial Sensing](http://lguanrui.github.io/publications/CoprTrsp2021RAL)</b>, <b>Guanrui Li</b>, Rundong Ge, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>, <b>RAL with ICRA 2021 option</b> [\[link to paper\]](https://ieeexplore.ieee.org/abstract/document/9376103)
 
 ## Conference Papers:
