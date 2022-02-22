@@ -9,11 +9,11 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
     
-  - title: "Blog"
-    url: /blog-posts/
-        
   - title: "Interesting Stuffs"
     url: /year-archive/
+
+  - title: "Blog"
+    url: /blog-posts/
     
   - title: "CV"
     url: /files/cv_guanrui.pdf
