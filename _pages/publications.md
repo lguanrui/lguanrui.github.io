@@ -23,4 +23,4 @@ author_profile: true
 
 ## Workshop papers:
 1. <b>Observabilty-Aware Trajectories for Geometric and Inertial Self-Calibration</b> , Christoph Bohm, <b>Guanrui Li</b>, Giuseppe Loianno, and Stephan Weiss. <i>Power-On-and-Go Robots: ‘Out-of-the-Box’ Systems for Real-World Applications, Robotics: Science and Systems (RSS) Conference</i>, <b>RSS 2020</b> [\[paper\]](https://www.aau.at/wp-content/uploads/2020/11/Observabilty-Aware-Trajectories-for-Geometric-and-Inertial-Self-Calibration.pdf)
-2. <b>[Vision-based Cooperative Transportation with MAVs](http://lguanrui.github.io/publications/paper_list)</b> , <b>Guanrui Li</b>, and Giuseppe Loianno. <i>Robot Learning Workshop(NSF-funded) @ Lehigh University</i>, <b>2019</b>
+2. <b>Vision-based Cooperative Transportation with MAVs</b> , <b>Guanrui Li</b>, and Giuseppe Loianno. <i>Robot Learning Workshop(NSF-funded) @ Lehigh University</i>, <b>2019</b>
