@@ -6,7 +6,7 @@ author_profile: true
 ## Journal Papers:
 1. <b>RotorTM: A Flexible Simulator for Aerial Transportation and Manipulation</b>, <b>Guanrui Li</b>, Xinyang Liu, and Giuseppe Loianno. <i>IEEE Transactions on Robotics</i>, <b>T-RO</b> (submitted) [\[paper\]](https://arxiv.org/abs/2205.05140), [\[video\]](https://www.youtube.com/watch?v=C4wYwiq6zGU)
 2. <b>Physics-Inspired Temporal Learning of Quadrotor Dynamics for Accurate Model Predictive Trajectory Tracking</b>, Alessandro Saviolo, <b>Guanrui Li</b>, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>, <b>RA-L with IROS 2022 option</b> (under review) 
-3. <b>Vision-based Detection and Tracking for Relative Localization of Aerial Swarms</b>, Rundong Ge*, Moonyoung Lee*, Vivek Radhakrishnan, Yang Zhou, <b>Guanrui Li</b>, Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i> <b>RA-L with IROS 2022 option</b>, 2022 (under review)
+3. <b>Vision-based Detection and Tracking for Relative Localization of Aerial Swarms</b>, Rundong Ge\*, Moonyoung Lee\*, Vivek Radhakrishnan, Yang Zhou, <b>Guanrui Li</b>, Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i> <b>RA-L with IROS 2022 option</b>, 2022 (under review)
 4. <b>Cooperative Transportation of Cable Suspended Payloads with MAVs using Monocular Vision and Inertial Sensing</b>, <b>Guanrui Li</b>, Rundong Ge, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>, <b>RA-L with ICRA 2021 option</b> [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9376103), [\[video\]](https://www.youtube.com/watch?v=d3daJLpZOaM)
 <!--- 2.  --->
 
