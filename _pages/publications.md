@@ -8,12 +8,12 @@ author_profile: true
 2. <b>Physics-Inspired Temporal Learning of Quadrotor Dynamics for Accurate Model Predictive Trajectory Tracking</b>, Alessandro Saviolo, <b>Guanrui Li</b>, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>, <b>RA-L with IROS 2022 option</b> (under review) 
 3. <b>Vision-based Detection and Tracking for Relative Localization of Aerial Swarms</b>, Rundong Ge\*, Moonyoung Lee\*, Vivek Radhakrishnan, Yang Zhou, <b>Guanrui Li</b>, Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i> <b>RA-L with IROS 2022 option</b>, 2022 (under review)
 4. <b>Cooperative Transportation of Cable Suspended Payloads with MAVs using Monocular Vision and Inertial Sensing</b>, <b>Guanrui Li</b>, Rundong Ge, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>, <b>RA-L with ICRA 2021 option</b> [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9376103), [\[video\]](https://www.youtube.com/watch?v=d3daJLpZOaM)
-<!--- 2.  --->
 
 ## Conference Papers:
 
 1. <b>Learning  Model  Predictive  Control  for  Quadrotors</b>, <b>Guanrui Li</b>\*, Alex Tunchez\*, and Giuseppe Loianno. <i>proceedings of the 2022 IEEE International Conference on Robotics and Automation</i>, <b>ICRA 2022</b>(\*: equal contribution) 
 [\[paper\]](https://arxiv.org/pdf/2202.07716.pdf), [\[video\]](https://www.youtube.com/watch?v=-5cIsIM5G7M) 
+<br><b>Outstanding Deployed Systems Paper Award Finalist!</b></br>
 2. <b>Aggressive  Visual  Perching  with  Quadrotors  on  Inclined  Surfaces</b>, Jeffrey Mao, <b>Guanrui Li</b>, Stephen Nogar, Christopher Kroninger, and Giuseppe Loianno. <i>proceedings of the 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems</i>, <b>IROS 2021</b> [\[paper\]](https://arxiv.org/pdf/2107.11171.pdf), [\[video\]](https://www.youtube.com/watch?v=qmS9cCNC1Bs)
 3. <b>PCMPC:  Perception-Constrained  Model  Predictive  Control  for Quadrotors  with  Suspended  Loads  using  a  Single  Camera  and  IMU</b>, <b>Guanrui Li</b>\*, Alex Tunchez\*, and Giuseppe Loianno. <i>proceedings of the 2021 IEEE International Conference on Robotics and Automation</i>, <b>ICRA 2021</b>(\*: equal contribution) [\[paper\]](https://arxiv.org/abs/2107.10888), [\[video\]](https://www.youtube.com/watch?v=BBWt1xG7Rrw)
 4. <b>Design and Experimental Evaluation of Distributed Cooperative Transportation of Cable Suspended Payloads with Micro Aerial Vehicles</b> , <b>Guanrui Li</b>, and Giuseppe Loianno. <i>17th International Symposium on Experimental Robotics</i>, <b>ISER 2020</b> [\[paper\]](https://link.springer.com/chapter/10.1007/978-3-030-71151-1_3), [\[video\]](https://www.youtube.com/watch?v=TBbRBz64Ln8)
