@@ -5,11 +5,11 @@ author_profile: true
 ---
 ## Journal Papers:
 1. <b>RotorTM: A Flexible Simulator for Aerial Transportation and Manipulation</b> <b>Guanrui Li</b>, Xinyang Liu, and Giuseppe Loianno. <i>IEEE Transactions on Robotics</i>, <b>T-RO</b> (submitted) [\[paper\]](https://arxiv.org/abs/2205.05140), [\[video\]](https://www.youtube.com/watch?v=C4wYwiq6zGU), [\[code\]](https://github.com/arplaboratory/RotorTM)
-3. <b>Physics-Inspired Temporal Learning of Quadrotor Dynamics for Accurate Model Predictive Trajectory Tracking</b>, Alessandro Saviolo, <b>Guanrui Li</b>, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>, <b>RA-L</b>, 2022 (Accepted) [\[paper\]](https://arxiv.org/abs/2206.03305), [\[video\]](https://www.youtube.com/watch?v=dsOtKfuRjEk)
+3. <b>Physics-Inspired Temporal Learning of Quadrotor Dynamics for Accurate Model Predictive Trajectory Tracking</b>, Alessandro Saviolo, <b>Guanrui Li</b>, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>, <b>RA-L</b>, 2022 [\[paper\]](https://arxiv.org/abs/2206.03305), [\[video\]](https://www.youtube.com/watch?v=dsOtKfuRjEk)
 4. <b>Cooperative Transportation of Cable Suspended Payloads with MAVs using Monocular Vision and Inertial Sensing</b>, <b>Guanrui Li</b>, Rundong Ge, and Giuseppe Loianno. <i>IEEE Robotics and Automation Letters</i>, <b>RA-L</b>, 2021 [\[paper\]](https://ieeexplore.ieee.org/abstract/document/9376103), [\[video\]](https://www.youtube.com/watch?v=d3daJLpZOaM)
 
 ## Conference Papers:
-1. <b>Vision-based Detection and Tracking for Relative Localization of Aerial Swarms</b>, Rundong Ge\*, Moonyoung Lee\*, Vivek Radhakrishnan, Yang Zhou, <b>Guanrui Li</b>, Giuseppe Loianno. <i>proceedings of the 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems</i>, <b>IROS 2022</b> (accepted)
+1. <b>Vision-based Detection and Tracking for Relative Localization of Aerial Swarms</b>, Rundong Ge\*, Moonyoung Lee\*, Vivek Radhakrishnan, Yang Zhou, <b>Guanrui Li</b>, Giuseppe Loianno. <i>proceedings of the 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems</i>, <b>IROS 2022</b>
 1. <b>Learning  Model  Predictive  Control  for  Quadrotors</b>, <b>Guanrui Li</b>\*, Alex Tunchez\*, and Giuseppe Loianno. <i>proceedings of the 2022 IEEE International Conference on Robotics and Automation</i>, <b>ICRA 2022</b>(\*: equal contribution) 
 [\[paper\]](https://arxiv.org/pdf/2202.07716.pdf), [\[video\]](https://www.youtube.com/watch?v=-5cIsIM5G7M) 
 <br><b>Outstanding Deployed Systems Paper Award Finalist!</b>
