@@ -18,6 +18,20 @@ Before coming to the US, I got my bachelor degree at the Sun Yat-Sen University 
 
 You can check my publication and some interesting photos in my life on this website. 
 
+## Latest News
+
+<p class="aboutme">
+<ul style="list-style-type:square">
+  <li><b>May, 2023</b>.  I was selected as <a href="https://risingstars.linklab.virginia.edu/2023/participants/guanrui-li.html">NSF CPS Rising Star</a> </li>
+  <li><b>May, 2022</b>. <a href="https://arxiv.org/pdf/2202.07716.pdf">LMPC</a> is selected as Outstanding Deployed System Paper Award Finalist at <a href="https://www.icra2022.org/program/awards">IEEE ICRA 2022</a> </li>
+  <li><b>Apr, 2022</b>. Honored to have been awarded the Dante Youla Award for Graduate Research Excellence at NYU Tandon</li>
+    <li><b>Feb, 2022</b>. <a href="https://arxiv.org/pdf/2202.07716.pdf">LMPC</a> featured on <a href="https://spectrum.ieee.org/video-friday-robotics-after-hours">IEEE Spectrum Video Friday</a> 📺</li>
+  <li><b>May, 2021</b>. My <a href="https://arxiv.org/abs/2306.05111">RA-L</a> paper featured in and <a href="https://spectrum.ieee.org/video-friday-digger-finger">IEEE Spectrum Video Friday</a> </li>
+    <li><b>Mar, 2021</b>. <a href="https://arxiv.org/abs/2107.10888">PCMPC</a> featured in <a href="https://spectrum.ieee.org/lowcost-drones-get-precise-control-over-suspended-loads">IEEE Spectrum article</a> 📺</li>
+
+</ul>
+</p>
+
 <table style="width:100%;max-width:800px;border:0px;margin-right:auto;margin-left:auto;">
 <table table="" width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
  </tbody><tbody>
