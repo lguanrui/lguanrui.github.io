@@ -22,6 +22,8 @@ You can check my publication and some interesting photos in my life on this webs
 
 <p class="aboutme">
 <ul style="list-style-type:square">
+  <li><b>Apr, 2024</b>. Honored to have been awarded the NYU University-Wide Outstanding Dissertation Awards!!
+  <li><b>Apr, 2024</b>. Honored to have been awarded the Alexander Hessel Award for the Best Ph.D. Dissertation in Electrical Engineering!!
   <li><b>Feb, 2024</b>. I was invited to give a talk at <a href="https://www.wpi.edu/news/calendar/events/robotics-engineering-colloquium-series-dr-guanrui-li">Worcester Polytechnical Institute (WPI) Robotics Engineering</a></li>
   <li><b>May, 2023</b>. I was selected as <a href="https://risingstars.linklab.virginia.edu/2023/participants/guanrui-li.html">NSF CPS Rising Star</a> </li>
   <li><b>May, 2022</b>. <a href="https://arxiv.org/pdf/2202.07716.pdf">LMPC</a> is selected as Outstanding Deployed System Paper Award Finalist at <a href="https://www.icra2022.org/program/awards">IEEE ICRA 2022</a> </li>
