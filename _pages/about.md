@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Guanrui Li (Chinese characters: 李冠睿), pronounced "Guan (冠) Ray (睿) Li (李)". You can call me Rui (Ray) for short.
 
-I am an Assistant Professor in the [Department of Robotics Engineering](https://www.wpi.edu/academics/departments/robotics-engineering) at Worcester Polytechnic Institute (WPI), with an affiliated appointment in the Department of Mechanical and Materials Engineering. I direct the [Aerial-robot Control and Perception (ACP) Lab](https://acp-lab.wpi.edu/). I also serve as Associate Co-Chair of the IEEE RAS Technical Committee on Aerial Robotics and Unmanned Aerial Vehicles, and as an Associate Editor for IEEE Robotics and Automation Letters (RA-L), IROS, and ICUAS.
+I am an Assistant Professor in the [Department of Robotics Engineering](https://www.wpi.edu/academics/departments/robotics-engineering) at Worcester Polytechnic Institute (WPI), with an affiliated appointment in the Department of Mechanical and Materials Engineering. I direct the [Aerial-robot Control and Perception (ACP) Lab](https://acp-lab.wpi.edu/). I also serve as Associate Co-Chair of the IEEE RAS Technical Committee on Aerial Robotics and Unmanned Aerial Vehicles, as an Associate Editor for IEEE Robotics and Automation Letters (RA-L), IROS, and ICUAS, and as an Area Chair for Robotics: Science and Systems (RSS) 2027.
 
 ## Research
 
@@ -32,6 +32,7 @@ You can find my [publications](/publications/) and [CV](/files/cv_guanrui.pdf) o
 
 ## Latest News
 
+- **Oct 2026**. Serving as an Area Chair for [Robotics: Science and Systems (RSS) 2027](https://roboticsconference.org/).
 - **Sep 2026**. Led the full-day workshop [Why Rust for Robotics: A Perspective From Industry](https://rust-for-robotics.github.io/iros2026/) at IROS 2026 in Pittsburgh, building on the Rust for Robotics workshop we led at ICRA 2025.
 - **Sep 2026**. Organized the Multi-Robot Autonomy Workshop at the [2026 NSF FRR Robotics Annual Meeting](https://nrifrr-mtg26.org/) in Pittsburgh.
 - **May 2026**. [VBT-MPC](https://arxiv.org/abs/2605.20392), our vision-based tactile MPC for contour following, was accepted to RA-L.
