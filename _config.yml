@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Guanrui Li"
 title_separator          : "-"
 name                     : &name "Guanrui Li"
-description              : &description "personal description"
+description              : &description "Guanrui Li is an Assistant Professor of Robotics Engineering at Worcester Polytechnic Institute and director of the Aerial-robot Control and Perception (ACP) Lab."
 url                      : https://lguanrui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lguanrui/lguanrui.github.io"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 : "guanrui_profile.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -82,27 +82,27 @@ analytics:
 author:
   name             : "Guanrui Li"
   avatar           : "guanrui_profile.png"
-  bio              : "PhD candidate in ECE"
-  location         : "Brooklyn, New York"
-  employer         : "ARPL, ECE, NYU"
+  bio              : "Assistant Professor, Robotics Engineering"
+  location         : "Worcester, Massachusetts"
+  employer         : "ACP Lab, Worcester Polytechnic Institute"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=v_bUoRAAAAAJ"
-  email            : "lguanrui@nyu.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=v_bUoRAAAAAJ&hl=en"
+  email            : "gli7@wpi.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://acp-lab.wpi.edu/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "lguanrui"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/guanrui-li-a1b544b6/"
+  linkedin         : "guanrui-li-a1b544b6"
   orcid            : "https://orcid.org/0000-0003-0554-304X"
   pinterest        :
   soundcloud       :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
