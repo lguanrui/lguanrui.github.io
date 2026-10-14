@@ -1,4 +1,12 @@
-_site/
-*.swp
+# IDEs
+.idea/
 
+# Hugo
+/resources/
+public/
+assets/jsconfig.json
+.DS_Store
+_vendor/
 
+# Raw hero footage stays local
+tools/hero/raw/
