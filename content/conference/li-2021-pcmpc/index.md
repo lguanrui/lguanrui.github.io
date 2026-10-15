@@ -38,6 +38,7 @@ image:
 categories:
 - Agility Intelligence and Safety
 - Aerial Physical Intelligence
+featured: true
 ---
 Abstract: 
 

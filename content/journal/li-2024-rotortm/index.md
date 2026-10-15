@@ -34,4 +34,5 @@ image:
 categories:
 - Aerial Physical Intelligence
 - Multi-Robot Collaboration
+featured: true
 ---

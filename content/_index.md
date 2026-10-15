@@ -3,64 +3,47 @@ title: Guanrui Li
 type: landing
 
 sections:
-  # Full-screen looping lab footage (shared with the ACP Lab site). To refresh: replace
-  # static/media/hero.mp4 and static/media/hero-poster.jpg (H.264 MP4, muted, keep it small).
-  - block: video-hero
-    id: hero
-    content:
-      video: media/hero.mp4
-      poster: media/hero-poster.jpg
-      kicker: Guanrui Li · Worcester Polytechnic Institute
-      headline: Agile, safe aerial robots that work with people
-      subline: I am an Assistant Professor of Robotics Engineering at WPI, where I direct the Aerial-robot Control and Perception (ACP) Lab. We develop the planning, control, perception, and learning that let flying robots navigate the world, interact with it physically, and collaborate with other robots and people.
-      buttons:
-        - text: Publications
-          url: publication/
-          primary: true
-        - text: Visit the ACP Lab
-          url: https://acp-lab.wpi.edu/
-
+  # Portrait-first opener: photo, name, role, icon row and bio come from content/authors/guanrui-li.
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: ''
       username: guanrui-li
 
-  # Teaser of the three research pillars (the full venn diagram lives on the Research page).
-  # Keep these entries in sync with content/research/_index.md.
-  - block: pillars
+  - block: markdown
     id: research
     content:
       title: Research
-      subtitle: Three pillars. Click one to see the related publications.
-      pillars:
-        - title: Aerial Robot Agility, Intelligence and Safety
-          description: Fast planning and control, robust perception and estimation, learning-based navigation, and safety guarantees that let aerial robots fly aggressively and reliably in complex environments.
-          url: research/agility-intelligence-safety/
-          icon: eagle-agile-b
-          icon_pack: custom
-          tint: '#f0bcc4'
-          tint_light: '#fbe9ec'
-          accent: '#b4303f'
-        - title: Aerial Physical Intelligence
-          description: Aerial robots that carry, manipulate, and make physical contact with the world, from cable-suspended payload transport and perching to tactile control and physical collaboration with people.
-          url: research/aerial-physical-intelligence/
-          icon: eagle-arm
-          icon_pack: custom
-          tint: '#aecdea'
-          tint_light: '#e4eef8'
-          accent: '#3c6e9f'
-        - title: Multi-Robot Collaboration
-          description: Teams of aerial robots that cooperatively transport and manipulate objects, self-assemble into modular structures, avoid each other safely, and collaborate with humans.
-          url: research/multi-robot-collaboration/
-          icon: eagle-trio
-          icon_pack: custom
-          tint: '#ecd49c'
-          tint_light: '#faf1dc'
-          accent: '#b07f10'
+      subtitle: ''
+      text: |-
+        My research develops the planning, control, perception, and learning that let flying robots navigate the world, interact with it physically, and collaborate with other robots and people. At the [ACP Lab](https://acp-lab.wpi.edu/) we organize this work around three pillars:
+
+        - [**Aerial robot agility, intelligence and safety**](https://acp-lab.wpi.edu/research/agility-intelligence-safety/): fast planning and control, robust perception and estimation, learning-based navigation, and safety guarantees that let aerial robots fly aggressively and reliably in complex environments.
+        - [**Aerial physical intelligence**](https://acp-lab.wpi.edu/research/aerial-physical-intelligence/): aerial robots that carry, manipulate, and make contact with the world, from cable-suspended payload transport and perching to tactile control and physical collaboration with people.
+        - [**Multi-robot collaboration**](https://acp-lab.wpi.edu/research/multi-robot-collaboration/): teams of aerial robots that cooperatively transport and manipulate objects, self-assemble into modular structures, avoid each other safely, and work alongside humans.
+
+        Our work is supported by the National Science Foundation and Amazon Robotics. The [lab website](https://acp-lab.wpi.edu/) has the [people](https://acp-lab.wpi.edu/people/), [student projects](https://acp-lab.wpi.edu/projects/), and [flight videos](https://www.youtube.com/@ACPLab-wpi). If you are interested in joining the lab as a PhD student, postdoc, or WPI student, please read the [Join Us](https://acp-lab.wpi.edu/join/) page first.
     design:
       columns: '1'
-      show_venn: false
+
+  # Hand-picked papers: set `featured: true` in a paper's index.md to list it here.
+  - block: collection
+    id: featured
+    content:
+      title: Selected Publications
+      text: See the [full list](publication/) or my [Google Scholar profile](https://scholar.google.com/citations?user=v_bUoRAAAAAJ&hl=en).
+      filters:
+        folders:
+          - journal
+          - conference
+          - preprint
+        featured_only: true
+      count: 0
+      sort_by: 'Date'
+      sort_ascending: false
+    design:
+      view: compact
+      columns: '1'
 
   - block: collection
     id: news
@@ -77,23 +60,6 @@ sections:
       offset: 0
       order: desc
       page_type: post
-    design:
-      view: compact
-      columns: '1'
-
-  - block: collection
-    id: featured
-    content:
-      title: Recent Publications
-      text: See the [full list](publication/) or my [Google Scholar profile](https://scholar.google.com/citations?user=v_bUoRAAAAAJ&hl=en).
-      filters:
-        folders:
-          - journal
-          - conference
-        featured_only: false
-      count: 5
-      sort_by: 'Date'
-      sort_ascending: false
     design:
       view: compact
       columns: '1'

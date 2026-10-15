@@ -27,4 +27,5 @@ url_video: https://youtu.be/a6Wj28tFZEU
 categories:
 - Agility Intelligence and Safety
 - Aerial Physical Intelligence
+featured: true
 ---

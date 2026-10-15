@@ -30,4 +30,5 @@ image:
   preview_only: false
 categories:
 - Agility Intelligence and Safety
+featured: true
 ---
