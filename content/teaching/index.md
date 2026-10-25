@@ -11,9 +11,11 @@ sections:
       text: |-
         ## Worcester Polytechnic Institute
 
+        **RBE 595: Optimal Control and Reinforcement Learning** (Instructor, 2026). A unified treatment of optimal control and reinforcement learning as two perspectives on the same problem, sequential decision-making. The course moves from convex optimization, dynamic programming, LQR, the Hamilton-Jacobi-Bellman equation, and model predictive control to policy gradients, PPO, SAC, model-based and offline reinforcement learning, and sim-to-real transfer on physical robots.
+
         **RBE 595: Optimal Control** (Instructor, 2025). Foundations of optimal control for robotics: convex optimization and quadratic programming, the Linear Quadratic Regulator and Model Predictive Control, nonlinear MPC for trajectory planning and control, and learning-based approaches that combine data-driven models with optimal control. Assignments use real or simulated robotic platforms.
 
-        **RBE 502: Robot Control** (Instructor, 2024 and 2025). Linearization and state-space modeling, feedback control, Lyapunov stability, nonlinear control, trajectory and motion planning, compliance and force control, impedance, adaptive, and robust control, with hands-on projects on robotic manipulators and mobile robots.
+        **RBE 502: Robot Control** (Instructor, 2024 to 2026). Linearization and state-space modeling, feedback control, Lyapunov stability, nonlinear control, trajectory and motion planning, compliance and force control, impedance, adaptive, and robust control, with hands-on projects on robotic manipulators and mobile robots.
 
         ## Earlier
 
